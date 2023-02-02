@@ -4,7 +4,7 @@
 
 1. Jeudi 9 mars : Présentation d'un ou deux sujets. Choix du sujet. Validation du sujet.
 2. Jeudi 6 avril : Présentation de l'état de l'art, la bibliographie étudiée. Choix de la problématique, validation de la problématique.
-3. Jeudi 25 mai : Misa à jour de l'état de l'art et de la bibliographie. Choix des objectifs du TIPE. Validation des objectifs. Éventuellement, présentation d'un début de projet.
+3. Jeudi 25 mai : Mise à jour de l'état de l'art et de la bibliographie. Choix des objectifs du TIPE. Validation des objectifs. Éventuellement, présentation d'un début de projet.
 4. Jeudi 8 juin : Rendu de la MCOT version 1
 5. Jeudi 22 juin : Présentation Orale : DOT et projet (code et/ou expérience).
 
